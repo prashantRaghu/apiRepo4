@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: v1
-  title: APIRepo45
+  title: APIRepo45r
 servers:
   - url: 'http://localhost:3000'
 paths:
